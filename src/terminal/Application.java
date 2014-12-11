@@ -1,5 +1,26 @@
 package terminal;
 
+/*	To move code into its own project:
+		1. Checkout the branch that has the code that will be a new project
+		2. Copy the code to a new directory is not already being tracked with git
+		3. create new repository on Stash
+		4. In Terminal
+			a. change to the new directory
+			b. git init
+			c. git add --all
+			d. git commit -m "initial commit"
+			e. git remote add origin <remote>
+			f. git push origin master
+		5. In Eclipse
+			a. import project
+				1. Edit the package on all source files (if name changed)
+				2. Save all files
+				3. (in terminal) commit the change
+			b. right click on project | Select Team | Disconnect
+			c. right click on project | Select Team | Share Project
+			d. Connect to the .git in the current directory
+*/
+
 // import java.util.Scanner;
 class Person {
 	// Classes can contain
