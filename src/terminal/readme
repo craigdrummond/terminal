@@ -1,0 +1,11 @@
+This is a readme for the repository
+
+Up until chapter 16 this application was a text application run inside the
+Eclipse UI.  Starting with the branch gui this application and the rest of 
+the code written in this repository will be converted to run inside of the
+graphical user interface.
+
+This will be a challenge but it should help us learn Java GUI programming
+
+More updates to follow
+
