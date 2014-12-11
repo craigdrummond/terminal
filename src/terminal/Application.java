@@ -39,8 +39,8 @@ class Person {
 public class Application {
 	public static void main(String[] args) {
 
-		// Adding in Chapter 20 This Branch will eventually be merged into term_master
-		// passing data to methods
+		// Adding in Chapter 21 This Branch will eventually be merged into master
+		// unknown yet
 
 		// Define Variables
 		Person person1 = new Person();
